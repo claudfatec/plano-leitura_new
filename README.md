@@ -1,3 +1,6 @@
+[![Azure Static Web Apps CI/CD](https://github.com/claudfatec/teste-react/actions/workflows/azure-static-web-apps-green-bay-0d3d3c003.yml/badge.svg?branch=main)](https://github.com/claudfatec/teste-react/actions/workflows/azure-static-web-apps-green-bay-0d3d3c003.yml)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
