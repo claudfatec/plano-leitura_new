@@ -3,7 +3,7 @@ const palette: PaletteOptions = {
     primary: {
       main: "#3f50b5",
       dark: '#151F30',
-      contrastText: "#A1C7E0",
+      contrastText: "#e8eaf6",
     },
     background: {
       default: "#e8eaf6",
