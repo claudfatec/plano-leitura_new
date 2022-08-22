@@ -6,10 +6,10 @@ import theme from './theme';
 function App() {
   return (
     <ThemeProvider theme = {theme}>
-        <CssBaseline />
+      <CssBaseline />
         <div className="App">
-      <Principal />
-    </div>
+          <Principal />
+        </div>
     </ThemeProvider>
     
   );
